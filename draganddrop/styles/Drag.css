@@ -1,0 +1,26 @@
+.drag-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 200px;
+  line-height: 50px;
+  border: 2px solid purple;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+}
+
+
+.drop-container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  text-align: center;
+  width: 200px;
+  line-height: 50px;
+  border: 2px solid purple;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+}
+
